@@ -1,0 +1,11 @@
+---
+application:
+  name: "strapi101"
+  project: "Testing"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-strapi101"
+  routes:
+  - application_name: "strapi101"
+    paths:
+    - "/*"
