@@ -2,7 +2,7 @@
   "name": "strapi-101",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application", 
+  "description": "A Strapi application",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -28,7 +28,6 @@
   "author": {
     "name": "A Strapi developer"
   },
-  
   "strapi": {
     "uuid": "293c8cda-5cdb-49eb-9cfc-be80781333b7"
   },
@@ -38,4 +37,3 @@
   },
   "license": "MIT"
 }
-
