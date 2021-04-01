@@ -12,7 +12,9 @@
   "devDependencies": {},
   "dependencies": {
     "alert": "^5.0.10",
+    "dotenv": "^8.2.0",
     "knex": "0.21.18",
+    "nodemailer": "^6.5.0",
     "sqlite3": "5.0.0",
     "strapi": "3.5.3",
     "strapi-admin": "3.5.3",
